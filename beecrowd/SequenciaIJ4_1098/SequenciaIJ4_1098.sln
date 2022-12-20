@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenciaIJ4_1098", "SequenciaIJ4_1098\SequenciaIJ4_1098.csproj", "{E9C22CF7-A549-408A-BCFC-B6DA080F35FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9C22CF7-A549-408A-BCFC-B6DA080F35FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9C22CF7-A549-408A-BCFC-B6DA080F35FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9C22CF7-A549-408A-BCFC-B6DA080F35FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9C22CF7-A549-408A-BCFC-B6DA080F35FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FABEF3B1-8A61-4E4C-B30B-1837A3321D94}
+	EndGlobalSection
+EndGlobal
